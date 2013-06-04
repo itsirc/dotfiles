@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/brayn/.vim/bundle/vim-fugitive'
+let g:netrw_dirhist_2='/home/brayn/.vim'
+let g:netrw_dirhist_3='/home/brayn/test'
+let g:netrw_dirhist_4='/media/winsys/Projects/storm/kbase/.git/modules/modules/orb/messaging'
+let g:netrw_dirhist_5='/media/winsys/Projects/storm/kbase/.git/modules/modules/orb/menu'
+let g:netrw_dirhist_6='/etc/php5/mods-available'
+let g:netrw_dirhist_7='/media/winsys/Projects/storm/contakeeper/.git/modules'
+let g:netrw_dirhist_8='/media/winsys/Projects/storm/homefinders/homefinders/offers/classes/view/frontend/offers/details'
