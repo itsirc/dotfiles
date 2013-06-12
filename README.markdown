@@ -1,11 +1,9 @@
 # These are my dotfiles. There are many like them, but these are mine
 
-## dotfiles
-
 Your dotfiles are how you personalize your system. These are mine.
 
 I must preface this by giving credit where credit is due. As one can clearly
-see, this is a fork of [Zach Holman's] (http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/) .dotfile project which I found to be most
+see, this is a fork of [Zach Holman's] (http://zachholman.com/) .dotfile project which I found to be most
 suitable for my needs. 
 
 ## install
@@ -13,7 +11,7 @@ suitable for my needs.
 Run this:
 
 ```sh
-git clone https://github.com/holman/dotfiles.git ~/.dotfiles
+git clone https://github.com/Braynid/dotfiles.git  ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
