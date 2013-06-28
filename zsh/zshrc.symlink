@@ -38,3 +38,7 @@ do
 done
 
 unset config_files
+
+# set vim bindings
+bindkey -v
+
