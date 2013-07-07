@@ -11,7 +11,7 @@ suitable for my needs.
 Run this:
 
 ```sh
-git clone https://github.com/Braynid/dotfiles.git  ~/.dotfiles
+git clone https://github.com/itsirc/dotfiles.git  ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
